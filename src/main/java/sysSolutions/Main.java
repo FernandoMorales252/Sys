@@ -9,10 +9,11 @@ public class Main {
         int nota2= 9;
         int nota3= 8;
         int cal=3;
+        String Nombre = "Paola";
        double promedio = (nota1 + nota2 + nota3) /cal;
 
 
-        System.out.print(promedio);
+        System.out.print("Alumn@: "+Nombre+" su nota es: "+promedio );
 
 
 
